@@ -1,4 +1,5 @@
-FIT_JOURNEY🏋️ Fit Journey A fitness tracking application to help users monitor workouts, exercises, and progress for a healthier lifestyle. 📌 Overview
+🏋️FIT_JOURNEY
+A fitness tracking application to help users monitor workouts, exercises, and progress for a healthier lifestyle. 📌 Overview
 
 Fit Journey is a fitness-focused application designed to assist users in planning, tracking, and maintaining their workout routines. The project aims to promote a healthy lifestyle by providing structured exercise tracking, fitness insights, and progress monitoring in a simple and user-friendly manner.
 
