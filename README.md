@@ -1,4 +1,4 @@
-->This image shows the main screen of the app
+->These images shows the main screen of the app
  It displays the basic layout and features.
  Users can easily navigate from here 
 
